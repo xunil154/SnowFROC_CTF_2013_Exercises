@@ -11,7 +11,7 @@ Developed by:
     [danny chrastil]    danny@devtrixlabs.com
     [greg foss]         greg.foss@owasp.org
     [andrew furze]      furze.andrew@gmail.com
-    [angel isen]        dj160bpm@gmail.com
+    [angel]             dj160bpm@gmail.com
     [sam leathers]      sam@appliedtrust.com
     [mark major]        mark.major@owasp.org
     [heath novak]       heath@carcarius.com
